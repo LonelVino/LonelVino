@@ -4,10 +4,10 @@
 
 I'm **Haonan** **Lin**
 
--   :hammer_and_pick: C++/Qt/GitHub Actions, a little bit Python/JavaScript
+-   :hammer_and_pick: Python/JavaScript/GitHub Actions, a little bit Matlab 
 -   :pencil2: Arch Linux / VS Code
 -   :man: Pronouns: he/him
--   :thinking: Wondering why my README has more [forks](https://github.com/ouuan/ouuan/network/members) than [stars](https://github.com/ouuan/ouuan/stargazers)
+-   :thinking: Wondering why my README has more [forks](https://github.com/lonelvino/lonelvino/network/members) than [stars](https://github.com/lonelvino/lonelvino/stargazers)
 
 ---
 
