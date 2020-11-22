@@ -1,13 +1,11 @@
-## Hey, ouuan here! :wave: [![Codeforces Rating](https://cfrating.ihcr.top/?user=ouuan&style=flat-square)](https://codeforces.com/profile/ouuan)
+## Hey, LonelVino here! :wave: [![Codeforces Rating](https://cfrating.ihcr.top/?user=ouuan&style=flat-square)](https://codeforces.com/profile/LonelVino)
 
-<img align="right" alt="ouuan's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=ouuan&show_icons=true">
+<img align="right" alt="lonelvino's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=LonelVino&show_icons=true">
 
-I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
+I'm **Haonan** **Lin**
 
 -   :hammer_and_pick: C++/Qt/GitHub Actions, a little bit Python/JavaScript
--   :package: Building [CP Editor](https://github.com/cpeditor/cpeditor) and more
--   :pencil2: Arch Linux / KDE / yakuake / Oh My Zsh / VS Code
--   :seedling: Preparing for [Gaokao](https://en.wikipedia.org/wiki/National_College_Entrance_Examination)
+-   :pencil2: Arch Linux / VS Code
 -   :man: Pronouns: he/him
 -   :thinking: Wondering why my README has more [forks](https://github.com/ouuan/ouuan/network/members) than [stars](https://github.com/ouuan/ouuan/stargazers)
 
@@ -35,9 +33,8 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
 
 <!--START_SECTION:waka-->
 ```text
-C++          13 mins         ███████████▒░░░░░░░░░░░░░   44.72 % 
-TypeScript   8 mins          ███████░░░░░░░░░░░░░░░░░░   27.73 % 
-CMake        8 mins          ███████░░░░░░░░░░░░░░░░░░   27.55 % 
+python       13 mins         ███████████▒░░░░░░░░░░░░░   44.72 % 
+JavaScript   8 mins          ███████░░░░░░░░░░░░░░░░░░   27.73 % 
 ```
 <!--END_SECTION:waka-->
 
