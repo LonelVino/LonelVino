@@ -1,38 +1,141 @@
-### Hi there 👋
+## Hey, ouuan here! :wave: [![Codeforces Rating](https://cfrating.ihcr.top/?user=ouuan&style=flat-square)](https://codeforces.com/profile/ouuan)
 
-[![](http://antzuhl.cn:4000/get/@antzuhl.readme)](http://antzuhl.cn/)
+<img align="right" alt="ouuan's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=ouuan&show_icons=true">
 
-![info](https://github-readme-stats.vercel.app/api?username=CasterWx&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
 
-#### Platform&Tools
-[![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
-[![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
-[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
-[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/Intellij-Idea-blue?style=flat-square&logo=intellijidea&logoColor=000000)](https://code.visualstudio.com/)
+-   :hammer_and_pick: C++/Qt/GitHub Actions, a little bit Python/JavaScript
+-   :package: Building [CP Editor](https://github.com/cpeditor/cpeditor) and more
+-   :pencil2: Arch Linux / KDE / yakuake / Oh My Zsh / VS Code
+-   :seedling: Preparing for [Gaokao](https://en.wikipedia.org/wiki/National_College_Entrance_Examination)
+-   :man: Pronouns: he/him
+-   :thinking: Wondering why my README has more [forks](https://github.com/ouuan/ouuan/network/members) than [stars](https://github.com/ouuan/ouuan/stargazers)
 
-[![](https://img.shields.io/badge/Honor-V30-f5010c?style=flat-square&logo=huawei&logoColor=ffffff)](https://www.apple.com/)
-[![](https://img.shields.io/badge/iPhone-SE-000000?style=flat-square&logo=apple&logoColor=ffffff)](https://www.blackberry.com/)
+---
 
-[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://postcss.org/)
-[![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
-[![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
-[![](https://img.shields.io/badge/-MySQL-003545?style=flat-square&logo=mysql&logoColor=white)](https://mariadb.com/)
-[![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
-[![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
-[![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
-[![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
-[![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
-[![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
-[![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
-[![](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)](https://www.typescriptlang.org/)
-[![](https://img.shields.io/badge/-Redis-dc382d?style=flat-square&logo=redis&logoColor=white)](https://sass-lang.com/)
-[![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://stylus-lang.com/)
+#### :sparkles: My followers
 
-#### Console&Game
+<!--START_SECTION:top-followers-->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Ir1d">
+        <img src="https://avatars2.githubusercontent.com/u/10709657" width="100px;" alt="Ir1d"/>
+      </a>
+      <br />
+      <a href="https://github.com/Ir1d">Ir1dXD</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/xtlsoft">
+        <img src="https://avatars2.githubusercontent.com/u/16159830" width="100px;" alt="xtlsoft"/>
+      </a>
+      <br />
+      <a href="https://github.com/xtlsoft">Tianle Xu</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/tengge1">
+        <img src="https://avatars2.githubusercontent.com/u/10705556" width="100px;" alt="tengge1"/>
+      </a>
+      <br />
+      <a href="https://github.com/tengge1">tengge1</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/thanhtoan1196">
+        <img src="https://avatars2.githubusercontent.com/u/16433547" width="100px;" alt="thanhtoan1196"/>
+      </a>
+      <br />
+      <a href="https://github.com/thanhtoan1196">Toan Tran</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/memset0">
+        <img src="https://avatars2.githubusercontent.com/u/34177126" width="100px;" alt="memset0"/>
+      </a>
+      <br />
+      <a href="https://github.com/memset0">memset0</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/refs">
+        <img src="https://avatars2.githubusercontent.com/u/6905948" width="100px;" alt="refs"/>
+      </a>
+      <br />
+      <a href="https://github.com/refs">Alex Unger</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Garfield550">
+        <img src="https://avatars2.githubusercontent.com/u/3471836" width="100px;" alt="Garfield550"/>
+      </a>
+      <br />
+      <a href="https://github.com/Garfield550">Garfield Lee</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ChungZH">
+        <img src="https://avatars2.githubusercontent.com/u/42088872" width="100px;" alt="ChungZH"/>
+      </a>
+      <br />
+      <a href="https://github.com/ChungZH">Flex Zhong</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/EndlessCheng">
+        <img src="https://avatars2.githubusercontent.com/u/7086966" width="100px;" alt="EndlessCheng"/>
+      </a>
+      <br />
+      <a href="https://github.com/EndlessCheng">EndlessCheng</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/guofei9987">
+        <img src="https://avatars2.githubusercontent.com/u/19920283" width="100px;" alt="guofei9987"/>
+      </a>
+      <br />
+      <a href="https://github.com/guofei9987">郭飞</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Enter-tainer">
+        <img src="https://avatars2.githubusercontent.com/u/25521218" width="100px;" alt="Enter-tainer"/>
+      </a>
+      <br />
+      <a href="https://github.com/Enter-tainer">mgt</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Xeonacid">
+        <img src="https://avatars2.githubusercontent.com/u/13995937" width="100px;" alt="Xeonacid"/>
+      </a>
+      <br />
+      <a href="https://github.com/Xeonacid">Xeonacid</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/abc1763613206">
+        <img src="https://avatars2.githubusercontent.com/u/30773956" width="100px;" alt="abc1763613206"/>
+      </a>
+      <br />
+      <a href="https://github.com/abc1763613206">abc1763613206</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/billchenchina">
+        <img src="https://avatars2.githubusercontent.com/u/7758042" width="100px;" alt="billchenchina"/>
+      </a>
+      <br />
+      <a href="https://github.com/billchenchina">billchenchina</a>
+    </td>
+  </tr>
+</table>
+<!--END_SECTION:top-followers-->
 
-![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
-[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
+---
 
+#### :bar_chart: Weekly development breakdown
+
+<!--START_SECTION:waka-->
+```text
+C++          13 mins         ███████████▒░░░░░░░░░░░░░   44.72 % 
+TypeScript   8 mins          ███████░░░░░░░░░░░░░░░░░░   27.73 % 
+CMake        8 mins          ███████░░░░░░░░░░░░░░░░░░   27.55 % 
+```
+<!--END_SECTION:waka-->
+
+---
+
+#### :star2: Awesome stars
+
+[My Awesome Stars](AWESOME-STARS.md)
