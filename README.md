@@ -17,6 +17,13 @@ I'm **Haonan** **Lin**
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/gerardosinaid">
+        <img src="https://avatars2.githubusercontent.com/u/54336858" width="100px;" alt="gerardosinaid"/>
+      </a>
+      <br />
+      <a href="https://github.com/gerardosinaid">Gerardo Sinaid</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/lcs27">
         <img src="https://avatars2.githubusercontent.com/u/73965032" width="100px;" alt="lcs27"/>
       </a>
