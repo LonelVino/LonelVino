@@ -114,6 +114,7 @@
 
 ## Go 
 
+- [gdu](https://github.com/dundee/gdu) - Disk usage analyzer with console interface written in Go
 - [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [liche](https://github.com/raviqqe/liche) - Fast Link Checker for Markdown and HTML in Go
 - [yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
