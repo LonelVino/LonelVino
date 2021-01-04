@@ -114,6 +114,7 @@
 
 ## Go 
 
+- [gdu](https://github.com/dundee/gdu) - Disk usage analyzer with console interface written in Go
 - [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [liche](https://github.com/raviqqe/liche) - Fast Link Checker for Markdown and HTML in Go
 - [yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
@@ -189,7 +190,6 @@
 - [app](https://github.com/all-contributors/app) - 🤖 A GitHub App to automate acknowledging contributors to your open source projects
 - [simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
-- [github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [star-history](https://github.com/timqian/star-history) - The missing star history graph of github repos
 - [shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) - Revive unavailable songs for Netease Cloud Music
@@ -283,7 +283,7 @@
 - [trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！⭐++
 - [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
-- [ShadowsocksBio](https://github.com/JadaGates/ShadowsocksBio) - 记录一下SS的前世今生，以及一个简单的教程总结
+- [ShadowsocksBio](https://github.com/KeiKinn/ShadowsocksBio) - 记录一下SS的前世今生，以及一个简单的教程总结
 - [shareOI](https://github.com/hzwer/shareOI) - 算法竞赛课件分享
 - [extend-chen_zhe-voice](https://github.com/QuadnucYard/extend-chen_zhe-voice) - chen_zhe音源扩展版
 - [Anime-Girls-Holding-Programming-Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
