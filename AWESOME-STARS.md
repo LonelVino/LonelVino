@@ -45,6 +45,7 @@
 
 ## C 
 
+- [obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager.
 - [ifuse](https://github.com/libimobiledevice/ifuse) - A fuse filesystem to access the contents of iOS devices
 - [earlyoom](https://github.com/rfjakob/earlyoom) - earlyoom - Early OOM Daemon for Linux
@@ -317,6 +318,7 @@
 
 ## Python 
 
+- [linkchecker](https://github.com/linkchecker/linkchecker) - check links in web documents or full websites
 - [bilili](https://github.com/SigureMo/bilili) - :beers: bilibili video (including bangumi) and danmaku downloader | B站视频（含番剧）、弹幕下载器
 - [yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [gitee-pages-action](https://github.com/yanglbme/gitee-pages-action) - 🤖 无须人为干预，自动部署 Gitee Pages
