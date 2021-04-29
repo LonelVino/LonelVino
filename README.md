@@ -23,6 +23,13 @@ I'm **Haonan** **Lin**
       <br />
       <a href="https://github.com/lcs27">LUO Chensheng</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/Texive">
+        <img src="https://avatars2.githubusercontent.com/u/83424417" width="100px;" alt="Texive"/>
+      </a>
+      <br />
+      <a href="https://github.com/Texive">Texive</a>
+    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
