@@ -17,6 +17,13 @@ I'm **Haonan** **Lin**
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/artem820">
+        <img src="https://avatars2.githubusercontent.com/u/77222464" width="100px;" alt="artem820"/>
+      </a>
+      <br />
+      <a href="https://github.com/artem820">Artem Zimniakov</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/lcs27">
         <img src="https://avatars2.githubusercontent.com/u/73965032" width="100px;" alt="lcs27"/>
       </a>
