@@ -17,13 +17,6 @@ I'm **Haonan** **Lin**
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/webdev7777">
-        <img src="https://avatars2.githubusercontent.com/u/77222464" width="100px;" alt="webdev7777"/>
-      </a>
-      <br />
-      <a href="https://github.com/webdev7777">Web developer</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/lcs27">
         <img src="https://avatars2.githubusercontent.com/u/73965032" width="100px;" alt="lcs27"/>
       </a>
