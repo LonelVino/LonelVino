@@ -24,6 +24,13 @@ I'm **Haonan** **Lin**
       <a href="https://github.com/lcs27">LUO Chensheng</a>
     </td>
     <td align="center">
+      <a href="https://github.com/nanfangAlan">
+        <img src="https://avatars2.githubusercontent.com/u/36793172" width="100px;" alt="nanfangAlan"/>
+      </a>
+      <br />
+      <a href="https://github.com/nanfangAlan">nanfang</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Texive">
         <img src="https://avatars2.githubusercontent.com/u/83424417" width="100px;" alt="Texive"/>
       </a>
