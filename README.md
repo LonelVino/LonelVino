@@ -17,18 +17,11 @@ I'm **Haonan** **Lin**
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Alena-lebedeva">
-        <img src="https://avatars2.githubusercontent.com/u/87107784" width="100px;" alt="Alena-lebedeva"/>
+      <a href="https://github.com/Top-coder-1">
+        <img src="https://avatars2.githubusercontent.com/u/87107784" width="100px;" alt="Top-coder-1"/>
       </a>
       <br />
-      <a href="https://github.com/Alena-lebedeva">Alena-Lebedeva</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/nanfangAlan">
-        <img src="https://avatars2.githubusercontent.com/u/36793172" width="100px;" alt="nanfangAlan"/>
-      </a>
-      <br />
-      <a href="https://github.com/nanfangAlan">nanfang</a>
+      <a href="https://github.com/Top-coder-1">Top-Coder</a>
     </td>
     <td align="center">
       <a href="https://github.com/lcs27">
@@ -36,6 +29,13 @@ I'm **Haonan** **Lin**
       </a>
       <br />
       <a href="https://github.com/lcs27">LUO Chensheng</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/nanfangAlan">
+        <img src="https://avatars2.githubusercontent.com/u/36793172" width="100px;" alt="nanfangAlan"/>
+      </a>
+      <br />
+      <a href="https://github.com/nanfangAlan">nanfang</a>
     </td>
     <td align="center">
       <a href="https://github.com/Texive">
