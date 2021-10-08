@@ -24,18 +24,18 @@ I'm **Haonan** **Lin**
       <a href="https://github.com/Top-coder-1">Top-Coder</a>
     </td>
     <td align="center">
-      <a href="https://github.com/lcs27">
-        <img src="https://avatars2.githubusercontent.com/u/73965032" width="100px;" alt="lcs27"/>
-      </a>
-      <br />
-      <a href="https://github.com/lcs27">LUO Chensheng</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/nanfangAlan">
         <img src="https://avatars2.githubusercontent.com/u/36793172" width="100px;" alt="nanfangAlan"/>
       </a>
       <br />
       <a href="https://github.com/nanfangAlan">nanfang</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lcs27">
+        <img src="https://avatars2.githubusercontent.com/u/73965032" width="100px;" alt="lcs27"/>
+      </a>
+      <br />
+      <a href="https://github.com/lcs27">LUO Chensheng</a>
     </td>
     <td align="center">
       <a href="https://github.com/Texive">
