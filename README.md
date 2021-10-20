@@ -17,11 +17,11 @@ I'm **Haonan** **Lin**
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Top-coder-1">
-        <img src="https://avatars2.githubusercontent.com/u/87107784" width="100px;" alt="Top-coder-1"/>
+      <a href="https://github.com/React-expert-web-developer-1">
+        <img src="https://avatars2.githubusercontent.com/u/87107784" width="100px;" alt="React-expert-web-developer-1"/>
       </a>
       <br />
-      <a href="https://github.com/Top-coder-1">Top-Coder</a>
+      <a href="https://github.com/React-expert-web-developer-1">Expert JavaScript Frameworks developer</a>
     </td>
     <td align="center">
       <a href="https://github.com/dmitriy-mishachenko">
