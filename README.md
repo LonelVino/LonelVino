@@ -24,13 +24,6 @@ I'm **Haonan** **Lin**
       <a href="https://github.com/Naitupury">Expert JavaScript Frameworks developer</a>
     </td>
     <td align="center">
-      <a href="https://github.com/dmitriy-mishachenko">
-        <img src="https://avatars2.githubusercontent.com/u/77222464" width="100px;" alt="dmitriy-mishachenko"/>
-      </a>
-      <br />
-      <a href="https://github.com/dmitriy-mishachenko">Dmitriy Mishachenko</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/nanfangAlan">
         <img src="https://avatars2.githubusercontent.com/u/36793172" width="100px;" alt="nanfangAlan"/>
       </a>
