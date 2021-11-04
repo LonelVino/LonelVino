@@ -17,11 +17,11 @@ I'm **Haonan** **Lin**
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Naitupury">
-        <img src="https://avatars2.githubusercontent.com/u/87107784" width="100px;" alt="Naitupury"/>
+      <a href="https://github.com/webDeveloper-619">
+        <img src="https://avatars2.githubusercontent.com/u/87107784" width="100px;" alt="webDeveloper-619"/>
       </a>
       <br />
-      <a href="https://github.com/Naitupury">Expert JavaScript Frameworks developer</a>
+      <a href="https://github.com/webDeveloper-619">Full-stack web developer</a>
     </td>
     <td align="center">
       <a href="https://github.com/nanfangAlan">
