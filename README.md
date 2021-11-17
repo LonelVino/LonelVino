@@ -1,4 +1,4 @@
-## Hey, LonelVino here! :wave: [![Codeforces Rating](https://cfrating.ihcr.top/?user=lonelvino&style=flat-square)](https://codeforces.com/profile/LonelVino)
+## Hey, LonelVino here! :wave:
 
 <img align="right" alt="lonelvino's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=LonelVino&show_icons=true">
 
