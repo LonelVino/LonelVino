@@ -158,7 +158,7 @@
 - [greenpau/caddy-security](https://github.com/greenpau/caddy-security) - 🔐 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML A
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database CI/CD for DevOps teams. https://www.bytebase.com
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [filhodanuvem/gitql](https://github.com/filhodanuvem/gitql) - 💊 A git query language
@@ -499,6 +499,7 @@
 
 ## Python 
 
+- [fonttools/fonttools](https://github.com/fonttools/fonttools) - A library to manipulate font files from Python.
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [haiwen/seahub](https://github.com/haiwen/seahub) - The web end of seafile server.
 - [nICEnnnnnnnLee/LiveRecorder](https://github.com/nICEnnnnnnnLee/LiveRecorder) - you-live - A live recorder focus on China mainland livestream sites(A站/B站/斗鱼/快手)
@@ -638,6 +639,7 @@
 
 ## Shell 
 
+- [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
 - [archlinuxcn/repo](https://github.com/archlinuxcn/repo) - Arch Linux CN Repository
 - [tamago324/cmp-zsh](https://github.com/tamago324/cmp-zsh) - nvim-cmp source for zsh
 - [SiddharthPant/booky](https://github.com/SiddharthPant/booky) - A simple script for pdf bookmarks creation
