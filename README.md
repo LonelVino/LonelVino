@@ -17,6 +17,13 @@ I'm **Haonan** **Lin**
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/peter-kimanzi">
+        <img src="https://avatars2.githubusercontent.com/u/71552773" width="100px;" alt="peter-kimanzi"/>
+      </a>
+      <br />
+      <a href="https://github.com/peter-kimanzi">Peter Kimanzi</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/lcs27">
         <img src="https://avatars2.githubusercontent.com/u/73965032" width="100px;" alt="lcs27"/>
       </a>
