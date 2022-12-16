@@ -17,12 +17,56 @@ I'm **Haonan** **Lin**
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/gamemann">
+        <img src="https://avatars2.githubusercontent.com/u/6509565" width="100px;" alt="gamemann"/>
+      </a>
+      <br />
+      <a href="https://github.com/gamemann">Christian Deacon</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/peter-kimanzi">
         <img src="https://avatars2.githubusercontent.com/u/71552773" width="100px;" alt="peter-kimanzi"/>
       </a>
       <br />
       <a href="https://github.com/peter-kimanzi">Peter Kimanzi</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/MosFazli">
+        <img src="https://avatars2.githubusercontent.com/u/69136464" width="100px;" alt="MosFazli"/>
+      </a>
+      <br />
+      <a href="https://github.com/MosFazli">Mostafa Fazli</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/VarunBanka">
+        <img src="https://avatars2.githubusercontent.com/u/88031057" width="100px;" alt="VarunBanka"/>
+      </a>
+      <br />
+      <a href="https://github.com/VarunBanka">Varun Banka</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/iamdeepak199">
+        <img src="https://avatars2.githubusercontent.com/u/80276722" width="100px;" alt="iamdeepak199"/>
+      </a>
+      <br />
+      <a href="https://github.com/iamdeepak199">Deepak bhardwaj</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/horizonvert98">
+        <img src="https://avatars2.githubusercontent.com/u/117667761" width="100px;" alt="horizonvert98"/>
+      </a>
+      <br />
+      <a href="https://github.com/horizonvert98">horizonvert98</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AshrazRashid">
+        <img src="https://avatars2.githubusercontent.com/u/22600807" width="100px;" alt="AshrazRashid"/>
+      </a>
+      <br />
+      <a href="https://github.com/AshrazRashid">Ashraz Rashid</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/lcs27">
         <img src="https://avatars2.githubusercontent.com/u/73965032" width="100px;" alt="lcs27"/>
