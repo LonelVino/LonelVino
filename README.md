@@ -38,11 +38,11 @@ I'm **Haonan** **Lin**
       <a href="https://github.com/MosFazli">Mostafa Fazli</a>
     </td>
     <td align="center">
-      <a href="https://github.com/VarunBanka">
-        <img src="https://avatars2.githubusercontent.com/u/88031057" width="100px;" alt="VarunBanka"/>
+      <a href="https://github.com/tupokraju">
+        <img src="https://avatars2.githubusercontent.com/u/105707216" width="100px;" alt="tupokraju"/>
       </a>
       <br />
-      <a href="https://github.com/VarunBanka">Varun Banka</a>
+      <a href="https://github.com/tupokraju">tupokraju</a>
     </td>
     <td align="center">
       <a href="https://github.com/iamdeepak199">
@@ -52,12 +52,21 @@ I'm **Haonan** **Lin**
       <a href="https://github.com/iamdeepak199">Deepak bhardwaj</a>
     </td>
     <td align="center">
+      <a href="https://github.com/VarunBanka">
+        <img src="https://avatars2.githubusercontent.com/u/88031057" width="100px;" alt="VarunBanka"/>
+      </a>
+      <br />
+      <a href="https://github.com/VarunBanka">Varun Banka</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/horizonvert98">
         <img src="https://avatars2.githubusercontent.com/u/117667761" width="100px;" alt="horizonvert98"/>
       </a>
       <br />
       <a href="https://github.com/horizonvert98">horizonvert98</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/AshrazRashid">
         <img src="https://avatars2.githubusercontent.com/u/22600807" width="100px;" alt="AshrazRashid"/>
@@ -65,8 +74,6 @@ I'm **Haonan** **Lin**
       <br />
       <a href="https://github.com/AshrazRashid">Ashraz Rashid</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/lcs27">
         <img src="https://avatars2.githubusercontent.com/u/73965032" width="100px;" alt="lcs27"/>
