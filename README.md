@@ -38,18 +38,18 @@ I'm **Haonan** **Lin**
       <a href="https://github.com/MosFazli">Mostafa Fazli</a>
     </td>
     <td align="center">
-      <a href="https://github.com/tupokraju">
-        <img src="https://avatars2.githubusercontent.com/u/105707216" width="100px;" alt="tupokraju"/>
-      </a>
-      <br />
-      <a href="https://github.com/tupokraju">tupokraju</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/iamdeepak199">
         <img src="https://avatars2.githubusercontent.com/u/80276722" width="100px;" alt="iamdeepak199"/>
       </a>
       <br />
       <a href="https://github.com/iamdeepak199">Deepak bhardwaj</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/tupokraju">
+        <img src="https://avatars2.githubusercontent.com/u/105707216" width="100px;" alt="tupokraju"/>
+      </a>
+      <br />
+      <a href="https://github.com/tupokraju">tupokraju</a>
     </td>
     <td align="center">
       <a href="https://github.com/VarunBanka">
