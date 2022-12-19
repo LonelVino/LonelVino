@@ -75,6 +75,13 @@ I'm **Haonan** **Lin**
       <a href="https://github.com/AshrazRashid">Ashraz Rashid</a>
     </td>
     <td align="center">
+      <a href="https://github.com/sami8899">
+        <img src="https://avatars2.githubusercontent.com/u/115140047" width="100px;" alt="sami8899"/>
+      </a>
+      <br />
+      <a href="https://github.com/sami8899">sami jan</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/lcs27">
         <img src="https://avatars2.githubusercontent.com/u/73965032" width="100px;" alt="lcs27"/>
       </a>
