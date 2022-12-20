@@ -68,18 +68,18 @@ I'm **Haonan** **Lin**
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/AshrazRashid">
-        <img src="https://avatars2.githubusercontent.com/u/22600807" width="100px;" alt="AshrazRashid"/>
-      </a>
-      <br />
-      <a href="https://github.com/AshrazRashid">Ashraz Rashid</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/sami8899">
         <img src="https://avatars2.githubusercontent.com/u/115140047" width="100px;" alt="sami8899"/>
       </a>
       <br />
       <a href="https://github.com/sami8899">sami jan</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AshrazRashid">
+        <img src="https://avatars2.githubusercontent.com/u/22600807" width="100px;" alt="AshrazRashid"/>
+      </a>
+      <br />
+      <a href="https://github.com/AshrazRashid">Ashraz Rashid</a>
     </td>
     <td align="center">
       <a href="https://github.com/lcs27">
