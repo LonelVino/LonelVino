@@ -72,7 +72,7 @@ I'm **Haonan** **Lin**
         <img src="https://avatars2.githubusercontent.com/u/117667761" width="100px;" alt="horizonvert98"/>
       </a>
       <br />
-      <a href="https://github.com/horizonvert98">horizonvert98</a>
+      <a href="https://github.com/horizonvert98">horizonvert1027</a>
     </td>
     <td align="center">
       <a href="https://github.com/sami8899">
