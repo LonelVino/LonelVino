@@ -24,13 +24,6 @@ I'm **Haonan** **Lin**
       <a href="https://github.com/gamemann">Christian Deacon</a>
     </td>
     <td align="center">
-      <a href="https://github.com/peter-kimanzi">
-        <img src="https://avatars2.githubusercontent.com/u/71552773" width="100px;" alt="peter-kimanzi"/>
-      </a>
-      <br />
-      <a href="https://github.com/peter-kimanzi">Peter Kimanzi</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/MosFazli">
         <img src="https://avatars2.githubusercontent.com/u/69136464" width="100px;" alt="MosFazli"/>
       </a>
@@ -65,15 +58,15 @@ I'm **Haonan** **Lin**
       <br />
       <a href="https://github.com/VarunBanka">Varun Banka</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
-      <a href="https://github.com/horizonvert98">
-        <img src="https://avatars2.githubusercontent.com/u/117667761" width="100px;" alt="horizonvert98"/>
+      <a href="https://github.com/horizonvert1027">
+        <img src="https://avatars2.githubusercontent.com/u/117667761" width="100px;" alt="horizonvert1027"/>
       </a>
       <br />
-      <a href="https://github.com/horizonvert98">horizonvert1027</a>
+      <a href="https://github.com/horizonvert1027">horizonvert1027</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/sami8899">
         <img src="https://avatars2.githubusercontent.com/u/115140047" width="100px;" alt="sami8899"/>
