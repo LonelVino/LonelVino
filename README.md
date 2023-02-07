@@ -45,18 +45,18 @@ I'm **Haonan** **Lin**
       <a href="https://github.com/iamdeepak199">Deepak bhardwaj</a>
     </td>
     <td align="center">
-      <a href="https://github.com/tupokraju">
-        <img src="https://avatars2.githubusercontent.com/u/105707216" width="100px;" alt="tupokraju"/>
-      </a>
-      <br />
-      <a href="https://github.com/tupokraju">tupokraju</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/VarunBanka">
         <img src="https://avatars2.githubusercontent.com/u/88031057" width="100px;" alt="VarunBanka"/>
       </a>
       <br />
       <a href="https://github.com/VarunBanka">Varun Banka</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/tupokraju">
+        <img src="https://avatars2.githubusercontent.com/u/105707216" width="100px;" alt="tupokraju"/>
+      </a>
+      <br />
+      <a href="https://github.com/tupokraju">tupokraju</a>
     </td>
     <td align="center">
       <a href="https://github.com/horizonvert1027">
