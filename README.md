@@ -68,18 +68,18 @@ I'm **Haonan** **Lin**
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/sami8899">
-        <img src="https://avatars2.githubusercontent.com/u/115140047" width="100px;" alt="sami8899"/>
-      </a>
-      <br />
-      <a href="https://github.com/sami8899">sami jan</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/AshrazRashid">
         <img src="https://avatars2.githubusercontent.com/u/22600807" width="100px;" alt="AshrazRashid"/>
       </a>
       <br />
       <a href="https://github.com/AshrazRashid">Ashraz Rashid</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sami8899">
+        <img src="https://avatars2.githubusercontent.com/u/115140047" width="100px;" alt="sami8899"/>
+      </a>
+      <br />
+      <a href="https://github.com/sami8899">sami jan</a>
     </td>
     <td align="center">
       <a href="https://github.com/nanfangAlan">
@@ -94,6 +94,13 @@ I'm **Haonan** **Lin**
       </a>
       <br />
       <a href="https://github.com/lcs27">LUO Chensheng</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yuzheyao22">
+        <img src="https://avatars2.githubusercontent.com/u/46756106" width="100px;" alt="yuzheyao22"/>
+      </a>
+      <br />
+      <a href="https://github.com/yuzheyao22">Yuzhe YAO</a>
     </td>
     <td align="center">
       <a href="https://github.com/ulfz">
