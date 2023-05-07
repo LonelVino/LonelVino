@@ -59,21 +59,14 @@ I'm **Haonan** **Lin**
       <a href="https://github.com/tupokraju">tupokraju</a>
     </td>
     <td align="center">
-      <a href="https://github.com/horizonvert1027">
-        <img src="https://avatars2.githubusercontent.com/u/117667761" width="100px;" alt="horizonvert1027"/>
-      </a>
-      <br />
-      <a href="https://github.com/horizonvert1027">horizonvert1027</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/AshrazRashid">
         <img src="https://avatars2.githubusercontent.com/u/22600807" width="100px;" alt="AshrazRashid"/>
       </a>
       <br />
       <a href="https://github.com/AshrazRashid">Ashraz Rashid</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/sami8899">
         <img src="https://avatars2.githubusercontent.com/u/115140047" width="100px;" alt="sami8899"/>
