@@ -24,13 +24,6 @@ I'm **Haonan** **Lin**
       <a href="https://github.com/gamemann">Christian Deacon</a>
     </td>
     <td align="center">
-      <a href="https://github.com/MosFazli">
-        <img src="https://avatars2.githubusercontent.com/u/69136464" width="100px;" alt="MosFazli"/>
-      </a>
-      <br />
-      <a href="https://github.com/MosFazli">Mostafa Fazli</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Topdeveloper777">
         <img src="https://avatars2.githubusercontent.com/u/73906697" width="100px;" alt="Topdeveloper777"/>
       </a>
@@ -65,8 +58,6 @@ I'm **Haonan** **Lin**
       <br />
       <a href="https://github.com/AshrazRashid">Ashraz Rashid</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/sami8899">
         <img src="https://avatars2.githubusercontent.com/u/115140047" width="100px;" alt="sami8899"/>
@@ -74,6 +65,8 @@ I'm **Haonan** **Lin**
       <br />
       <a href="https://github.com/sami8899">sami jan</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/nanfangAlan">
         <img src="https://avatars2.githubusercontent.com/u/36793172" width="100px;" alt="nanfangAlan"/>
