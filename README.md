@@ -79,7 +79,7 @@ I'm **Haonan** **Lin**
         <img src="https://avatars2.githubusercontent.com/u/73965032" width="100px;" alt="lcs27"/>
       </a>
       <br />
-      <a href="https://github.com/lcs27">LUO Chensheng</a>
+      <a href="https://github.com/lcs27">lcs_27</a>
     </td>
     <td align="center">
       <a href="https://github.com/yuzheyao22">
